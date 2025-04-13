@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Dev+%7C+Discord+Bot+Builder;Solo+Leveling+System+Fan;Code.+Break.+Fix.+Repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Dev+%7C+Discord+Bot+Builder;Mobile+Editor;Graphic+Designer;Gaming+Freak;Code.+Break.+Fix.+Repeat" />
 </p>
 
 ---
