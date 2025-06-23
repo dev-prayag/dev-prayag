@@ -5,17 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Dev+%7C+Discord+Bot+Builder;Mobile+Editor;Graphic+Designer;Gaming+Freak;Code.+Break.+Fix.+Repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Alsi Dev+%7C+Discord+Bot+Builder;Mobile+Editor;Graphic+Designer;Gaming+Freak;Code.+Break.+Fix.+Repeat" />
 </p>
 
 ---
 
 ### ⚡ About Me
-
-- 🔭 Currently working on: **Solo Leveling IRL System Bot**
-- 🎧 Creator of: [**Starboy Music Bot**](https://starboy-bot.vercel.app/index.html)
+- I know a little js, py, html, css
 - 🌱 Learning: **TypeScript, Web3, AI Integration**
-- 💬 Ask me about: **Discord.js, Canvas, MongoDB, Music Systems**
+- 💬 Ask me about: **Discord.js, Canvas, Websites, Edits, Design**
 - ⚡ Fun Fact: My side projects have lore.
 
 ---
@@ -47,6 +45,7 @@
 
 > A sleek, powerful music bot for Discord  
 > Spotify-style visuals | Shoukaku + Kazagumo | Canvas-based music cards
+> Currently not working on it
 
 ---
 
