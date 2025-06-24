@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi,%20I'm%20Prayag%20(dev_prayag)!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi,%20I'm%20Prayag&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://guns.lol/dev_prayag"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/937380760875302974"><img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
