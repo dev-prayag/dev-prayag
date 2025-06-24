@@ -18,13 +18,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,nextjs,tailwind,mongodb,express,github,vscode,html,css,discord" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
@@ -60,9 +53,6 @@
 <p align="center">
   <a href="https://discord.com/users/937380760875302974"><img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
----
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer" />
