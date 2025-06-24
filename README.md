@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for dev_prayag -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi,%20I'm%20Prayag%20(dev_prayag)!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -12,7 +12,7 @@
 
 ### ⚡ About Me
 - I know a little js, py, html, css
-- 🌱 Learning: **TypeScript, Web3, AI Integration**
+- 🌱 Learning: **TypeScript**
 - 💬 Ask me about: **Discord.js, Canvas, Websites, Edits, Design**
 - ⚡ Fun Fact: My side projects have lore.
 
@@ -49,33 +49,20 @@
 
 ---
 
-#### [**Byte - Anti-Nuke Bot**](https://github.com/dev_prayag)
+#### [**Avon - AIO (Soon)**](https://github.com/dev_prayag)
 
 > Built to protect Discord servers from nukes and raids — powerful, fast, and reliable.
-
----
-
-### ✨ Extras
-
-- 🗿 Motto: *"Stay hungry. Stay coding."*
-- ⚔️ Side Quest: Make Discord bots feel like games
-- 🧠 Life Goal: Build tools that level people up in real life
 
 ---
 
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://guns.lol/dev_prayag"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://guns.lol/dev_prayag"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev_prayag/dev_prayag/output/github-contribution-grid-snake.svg" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=footer" />
