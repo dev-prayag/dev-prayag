@@ -34,17 +34,11 @@
 
 ### 🚀 Projects I’m Proud Of
 
-#### [**Starboy Music Bot**](https://starboy-bot.vercel.app/index.html)
+#### [**Yukihana Music Bot**](https://github.com/OpenUwU/Yukihana)
 
 > A sleek, powerful music bot for Discord  
-> Spotify-style visuals | Shoukaku + Kazagumo | Canvas-based music cards
-> Currently not working on it
-
----
-
-#### [**Avon - AIO (Soon)**](https://github.com/dev_prayag)
-
-> Built to protect Discord servers from nukes and raids — powerful, fast, and reliable.
+> Spotify-style visuals | lavalink-client | fast and accurate music search | High quality
+> Currently working on it
 
 ---
 
